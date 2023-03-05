@@ -10,3 +10,5 @@ it should be used within vscode
 4. Switch to the Run and Debug View in the Sidebar (Ctrl+Shift+D).
 5. Select `Launch Client` from the drop down (if it is not already).
 6. Press ▷ to run the launch config (F5).
+7. make a new text file and save it locally.
+8. start changing it.
